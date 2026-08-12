@@ -1,5 +1,4 @@
-# caderno-tematico-estudos-sql
-# Caderno Temático de SQL
+# Caderno Temático de SQL - Bootcamp Power BI
 
 ## Contexto e Objetivos
 
